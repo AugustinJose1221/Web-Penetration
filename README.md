@@ -5,4 +5,4 @@ For running python program using scrapy, we can use the command line interface t
 
 Scrapy crawlers can be run using the following command
 
-$scrapy runspider Sample.py
+`$scrapy runspider Sample.py
